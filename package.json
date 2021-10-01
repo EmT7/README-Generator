@@ -1,0 +1,26 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MirandaT77/README-Generator.git"
+  },
+  "keywords": [
+    "homework",
+    "challenge"
+  ],
+  "author": "Miranda T",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MirandaT77/README-Generator/issues"
+  },
+  "homepage": "https://github.com/MirandaT77/README-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.1.5"
+  }
+}
